@@ -1,0 +1,10 @@
+
+val: D:\\image_count\\yolov5-master\\customdataset\\val\\images 
+train: D:\\image_count\\yolov5-master\\customdataset\\train\\images # train images (relative to 'path') 128 images  # val images (relative to 'path') 128 images
+test: D:\\image_count\\yolov5-master\\customdataset\\test\\images # test images (optional)
+
+# Classes
+nc: 1
+names: ["rod"]
+ 
+ 
